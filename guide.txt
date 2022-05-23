@@ -1,0 +1,11 @@
+npm install @reduxjs/toolkit react-redux
+react-redux
+immer
+redux-thunk
+reselect
+
+store.js
+index.js
+features>cart>cartSlice.js
+
+reduxDevTools
